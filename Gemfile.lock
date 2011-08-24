@@ -28,3 +28,4 @@ DEPENDENCIES
   haml
   sinatra
   sinatra-reloader
+  sinatra-minify
